@@ -1,4 +1,4 @@
-# vue-ts-demo-2
+# hyrule-jobs
 
 ## Project setup
 ```

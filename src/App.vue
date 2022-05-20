@@ -24,8 +24,8 @@ import Job from "@/types/Job";
 
 @Options({
   components: {
-      JobList
-    }
+    JobList
+  }
 })
 export default class App extends Vue {
 
